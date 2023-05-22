@@ -1,5 +1,5 @@
 # Red Velvet Cookies Recipe
-## By Briana Lee
+By Briana Lee
 
 ## Objective
 Use CSS Flexbox to a website about Red Velvet Cookies Recipe (Responsive layout structure, parent/child nodes). 
